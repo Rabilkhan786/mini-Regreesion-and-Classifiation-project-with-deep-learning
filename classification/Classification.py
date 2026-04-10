@@ -6,7 +6,7 @@ import pandas as pd
 import sklearn
 import sklearn.model_selection
 from torch.nn.functional import one_hot
-from torch.utils.data import DataLoader, TensorDataset
+from torch.utils.data import DataLoader
 import torchvision 
 from torchvision import transforms 
 
